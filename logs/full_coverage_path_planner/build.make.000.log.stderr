@@ -1,0 +1,10 @@
+[01m[K/home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_planner/src/common.cpp:[m[K In function ‘[01m[Kbool a_star_to_open_space(const std::vector<std::vector<bool> >&, gridNode_t, int, std::vector<std::vector<bool> >&, const std::__cxx11::list<Point_t>&, std::__cxx11::list<gridNode_t>&)[m[K’:
+[01m[K/home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_planner/src/common.cpp:150:41:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[K(((uint)nn.std::vector<gridNode_t>::back().gridNode_t::pos.Point_t::x) + dx)[m[K’ from ‘[01m[Kuint[m[K’ {aka ‘[01m[Kunsigned int[m[K’} to ‘[01m[Kint[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  150 |                         [01;35m[Knn.back().pos.x + dx[m[K,
+      |                         [01;35m[K~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_planner/src/common.cpp:151:41:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[K(((uint)nn.std::vector<gridNode_t>::back().gridNode_t::pos.Point_t::y) + dy)[m[K’ from ‘[01m[Kuint[m[K’ {aka ‘[01m[Kunsigned int[m[K’} to ‘[01m[Kint[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  151 |                         [01;35m[Knn.back().pos.y + dy[m[K,
+      |                         [01;35m[K~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_planner/src/common.cpp:177:96:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[K(((uint)((cost + nn.std::vector<gridNode_t>::back().gridNode_t::cost) + distanceToClosestPoint(p2, (* & open_space)))) + i)[m[K’ from ‘[01m[Kuint[m[K’ {aka ‘[01m[Kunsigned int[m[K’} to ‘[01m[Kint[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  177 |                                 [01;35m[Kcost + nn.back().cost + distanceToClosestPoint(p2, open_space) + i[m[K,
+      |                                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K

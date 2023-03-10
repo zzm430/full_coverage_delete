@@ -1,0 +1,8 @@
+prefix=/home/metoak/Desktop/coverage_path_plan_autolabor/src/cmake-build-debug/devel
+
+Name: slam
+Description: Description of slam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

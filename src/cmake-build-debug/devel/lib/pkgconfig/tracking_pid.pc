@@ -1,0 +1,8 @@
+prefix=/home/metoak/Desktop/coverage_path_plan_autolabor/src/cmake-build-debug/devel
+
+Name: tracking_pid
+Description: Description of tracking_pid
+Version: 2.2.0
+Cflags: -I/home/metoak/Desktop/coverage_path_plan_autolabor/src/cmake-build-debug/devel/include -I/home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_agent/tracking_pid/include
+Libs: -L${prefix}/lib -ltracking_pid
+Requires: actionlib actionlib_msgs angles dynamic_reconfigure geometry_msgs message_runtime nav_msgs roscpp std_msgs std_srvs tf tf2_geometry_msgs tf2_ros visualization_msgs

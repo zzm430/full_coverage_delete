@@ -1,0 +1,192 @@
+[35m[1mScanning dependencies of target map_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_lisp[0m
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target visualization_msgs_generate_messages_py
+[  0%] Built target visualization_msgs_generate_messages_eus
+[  0%] Built target map_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target map_msgs_generate_messages_lisp
+[  0%] Built target map_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[  0%] Built target map_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target costmap_2d_gencfg[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target costmap_2d_gencfg
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target costmap_2d_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_eus[0m
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target base_local_planner_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target base_local_planner_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_nodejs[0m
+[  0%] Built target costmap_2d_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target base_local_planner_generate_messages_lisp
+[  0%] Built target map_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_py[0m
+[35m[1mScanning dependencies of target base_local_planner_gencfg[0m
+[  0%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target base_local_planner_generate_messages_nodejs
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_eus[0m
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target base_local_planner_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target base_local_planner_gencfg
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target costmap_2d_generate_messages_nodejs
+[  0%] Built target costmap_2d_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target costmap_2d_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target full_coverage_path_planner[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/full_coverage_path_planner.dir/src/common.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/full_coverage_path_planner.dir/src/full_coverage_path_planner.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/full_coverage_path_planner.dir/src/boustrophedon_stc.cpp.o[0m
+[01m[K/home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_planner/src/common.cpp:[m[K In function ‘[01m[Kbool a_star_to_open_space(const std::vector<std::vector<bool> >&, gridNode_t, int, std::vector<std::vector<bool> >&, const std::__cxx11::list<Point_t>&, std::__cxx11::list<gridNode_t>&)[m[K’:
+[01m[K/home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_planner/src/common.cpp:150:41:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[K(((uint)nn.std::vector<gridNode_t>::back().gridNode_t::pos.Point_t::x) + dx)[m[K’ from ‘[01m[Kuint[m[K’ {aka ‘[01m[Kunsigned int[m[K’} to ‘[01m[Kint[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  150 |                         [01;35m[Knn.back().pos.x + dx[m[K,
+      |                         [01;35m[K~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_planner/src/common.cpp:151:41:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[K(((uint)nn.std::vector<gridNode_t>::back().gridNode_t::pos.Point_t::y) + dy)[m[K’ from ‘[01m[Kuint[m[K’ {aka ‘[01m[Kunsigned int[m[K’} to ‘[01m[Kint[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  151 |                         [01;35m[Knn.back().pos.y + dy[m[K,
+      |                         [01;35m[K~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_planner/src/common.cpp:177:96:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[K(((uint)((cost + nn.std::vector<gridNode_t>::back().gridNode_t::cost) + distanceToClosestPoint(p2, (* & open_space)))) + i)[m[K’ from ‘[01m[Kuint[m[K’ {aka ‘[01m[Kunsigned int[m[K’} to ‘[01m[Kint[m[K’ [[01;35m[K-Wnarrowing[m[K]
+  177 |                                 [01;35m[Kcost + nn.back().cost + distanceToClosestPoint(p2, open_space) + i[m[K,
+      |                                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[ 50%] [32m[1mLinking CXX shared library /home/metoak/Desktop/coverage_path_plan_autolabor/devel/.private/full_coverage_path_planner/lib/libfull_coverage_path_planner.so[0m
+[ 50%] Built target full_coverage_path_planner
+[35m[1mScanning dependencies of target path_planner[0m
+[35m[1mScanning dependencies of target coverage_progress_visualizer_node[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/coverage_progress_visualizer_node.dir/src/coverage_progress_visualizer_node.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/path_planner.dir/src/main.cpp.o[0m
+[ 87%] [32m[1mLinking CXX executable /home/metoak/Desktop/coverage_path_plan_autolabor/devel/.private/full_coverage_path_planner/lib/full_coverage_path_planner/coverage_progress_visualizer_node[0m
+[ 87%] Built target coverage_progress_visualizer_node
+[100%] [32m[1mLinking CXX executable /home/metoak/Desktop/coverage_path_plan_autolabor/devel/.private/full_coverage_path_planner/lib/full_coverage_path_planner/path_planner[0m
+[100%] Built target path_planner

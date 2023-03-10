@@ -1,0 +1,10 @@
+Symlinking /home/metoak/Desktop/coverage_path_plan_autolabor/devel/lib/libfull_coverage_path_planner.so
+Symlinking /home/metoak/Desktop/coverage_path_plan_autolabor/devel/lib/full_coverage_path_planner/map_merge.py
+Symlinking /home/metoak/Desktop/coverage_path_plan_autolabor/devel/lib/full_coverage_path_planner/path_planner
+Symlinking /home/metoak/Desktop/coverage_path_plan_autolabor/devel/lib/full_coverage_path_planner/eval_progress.py
+Symlinking /home/metoak/Desktop/coverage_path_plan_autolabor/devel/lib/full_coverage_path_planner/cmake.lock
+Symlinking /home/metoak/Desktop/coverage_path_plan_autolabor/devel/lib/full_coverage_path_planner/coverage_progress_visualizer_node
+Symlinking /home/metoak/Desktop/coverage_path_plan_autolabor/devel/lib/full_coverage_path_planner/multi_robot_bringup.py
+Symlinking /home/metoak/Desktop/coverage_path_plan_autolabor/devel/lib/pkgconfig/full_coverage_path_planner.pc
+Symlinking /home/metoak/Desktop/coverage_path_plan_autolabor/devel/share/full_coverage_path_planner/cmake/full_coverage_path_plannerConfig.cmake
+Symlinking /home/metoak/Desktop/coverage_path_plan_autolabor/devel/share/full_coverage_path_planner/cmake/full_coverage_path_plannerConfig-version.cmake

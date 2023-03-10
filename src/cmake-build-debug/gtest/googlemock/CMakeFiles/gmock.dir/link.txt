@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libgmockd.so -o ../lib/libgmockd.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/metoak/Desktop/coverage_path_plan_autolabor/src/cmake-build-debug/gtest/lib ../lib/libgtestd.so -lpthread 

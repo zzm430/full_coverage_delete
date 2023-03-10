@@ -1,0 +1,97 @@
+/opt/clion/clion-2021.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/metoak/Desktop/coverage_path_plan_autolabor/src
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Using CATKIN_DEVEL_PREFIX: /home/metoak/Desktop/coverage_path_plan_autolabor/src/cmake-build-debug/devel
+-- Using CMAKE_PREFIX_PATH: /home/metoak/catkin_teb/devel;/home/metoak/catkin_ws/devel;/home/metoak/catkin_turtuls/devel;/opt/ros/noetic
+-- This workspace overlays: /home/metoak/catkin_teb/devel;/home/metoak/catkin_ws/devel;/home/metoak/catkin_turtuls/devel;/opt/ros/noetic
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using Debian Python package layout
+-- Found PY_em: /usr/lib/python3/dist-packages/em.py  
+-- Using empy: /usr/lib/python3/dist-packages/em.py
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/metoak/Desktop/coverage_path_plan_autolabor/src/cmake-build-debug/test_results
+-- Forcing gtest/gmock from source, though one was otherwise available.
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+CMake Deprecation Warning at /usr/src/googletest/CMakeLists.txt:4 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at /usr/src/googletest/googlemock/CMakeLists.txt:45 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at /usr/src/googletest/googletest/CMakeLists.txt:56 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") 
+-- Found Threads: TRUE  
+-- Using Python nosetests: /usr/bin/nosetests3
+-- catkin 0.8.10
+-- BUILD_SHARED_LIBS is on
+-- BUILD_SHARED_LIBS is on
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- ~~  traversing 8 packages in topological order:
+-- ~~  - agent (metapackage)
+-- ~~  - bringup
+-- ~~  - filters
+-- ~~  - navigation
+-- ~~  - slam
+-- ~~  - tracking_pid
+-- ~~  - full_coverage_path_planner
+-- ~~  - turtlebot3_description
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- +++ processing catkin metapackage: 'agent'
+-- ==> add_subdirectory(full_coverage_path_agent/agent)
+-- +++ processing catkin package: 'bringup'
+-- ==> add_subdirectory(full_coverage_path_agent/bringup)
+-- +++ processing catkin package: 'filters'
+-- ==> add_subdirectory(full_coverage_path_agent/filters)
+-- +++ processing catkin package: 'navigation'
+-- ==> add_subdirectory(full_coverage_path_agent/navigation)
+-- +++ processing catkin package: 'slam'
+-- ==> add_subdirectory(full_coverage_path_agent/slam)
+-- +++ processing catkin package: 'tracking_pid'
+-- ==> add_subdirectory(full_coverage_path_agent/tracking_pid)
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- Generating .msg files for action tracking_pid/FollowPath /home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_agent/tracking_pid/action/FollowPath.action
+Generating for action FollowPath
+-- tracking_pid: 10 messages, 0 services
+-- Installing devel-space wrapper /home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_agent/tracking_pid/scripts/path_interpolator to /home/metoak/Desktop/coverage_path_plan_autolabor/src/cmake-build-debug/devel/lib/tracking_pid
+-- +++ processing catkin package: 'full_coverage_path_planner'
+-- ==> add_subdirectory(full_coverage_path_planner)
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- Found OpenCV: /usr (found version "4.2.0") 
+-- Installing devel-space wrapper /home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_planner/scripts/multi_robot_bringup.py to /home/metoak/Desktop/coverage_path_plan_autolabor/src/cmake-build-debug/devel/lib/full_coverage_path_planner
+-- Installing devel-space wrapper /home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_planner/scripts/map_merge.py to /home/metoak/Desktop/coverage_path_plan_autolabor/src/cmake-build-debug/devel/lib/full_coverage_path_planner
+-- Installing devel-space wrapper /home/metoak/Desktop/coverage_path_plan_autolabor/src/full_coverage_path_planner/scripts/eval_progress.py to /home/metoak/Desktop/coverage_path_plan_autolabor/src/cmake-build-debug/devel/lib/full_coverage_path_planner
+-- +++ processing catkin package: 'turtlebot3_description'
+-- ==> add_subdirectory(full_coverage_path_agent/turtlebot3_description)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/metoak/Desktop/coverage_path_plan_autolabor/src/cmake-build-debug
